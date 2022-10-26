@@ -15,11 +15,12 @@
 </p>
 
 <p align="justify">
-  Neste projeto foi desenvolvido uma versão do jogo Pong, utilizando as bibliotecas p5.js e p5.collide2D.js.</p>
+  Neste projeto foi desenvolvido uma versão do jogo Pong, que é um jogo eletrônico de esporte desenvolvido pela Atari em 1972. Foram utilizas as bibliotecas p5.js e p5.collide2D.js.</p>
 
 <p align="justify">
   Durante o desenvolvimento conheci o ambiente de desenvolvimento web P5 Js, aprendi como criar formas geométricas, a alterar a cor da tela e a definir as cores dos atores do jogo. Aprendi também a verificar a colisão da bolinha com as bordas da tela e com as raquetes, utilizando a função if(). Foi incluído no código uma função de contagem de pontos e por último foi adicionado sons ao projeto com o intuito de ficar mais parecido ao jogo original.</p>
 
+---
+
 <p align="center">
 <img style="width: 400px" src="https://github.com/andreacury/Pong/raw/main/assets/GIF%2025-10-2022%2017-34-50.gif"></p>
----
