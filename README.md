@@ -24,3 +24,10 @@
 
 <p align="center">
 <img style="width: 400px" src="https://github.com/andreacury/Pong/raw/main/assets/GIF%2025-10-2022%2017-34-50.gif"></p>
+
+---
+
+## Licença
+
+<p align="justify"> Copyright: p5.js é atualmente liderado por Qianqian Ye e foi criado por Lauren Lee McCarthy. p5.js é desenvolvido por uma comunidade de colaboradores, com apoio da Processing Foundation e NYU ITP. Identidade e design gráfico de Jerel Johnson. © Info.
+</p>
